@@ -1,0 +1,8 @@
+interServices\ShowAllTeachersServiceInter.class
+interServices\LoginServiceInter.class
+config\Config.class
+services\MenuService.class
+interServices\RegistStudentServiceInter.class
+services\RegistStudentService.class
+interServices\RegistTeacherServiceInter.class
+interServices\ShowAllStudentsServiceInter.class
